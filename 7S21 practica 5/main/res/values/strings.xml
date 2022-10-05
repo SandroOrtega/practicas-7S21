@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practicacincoR</string>
+    <string name="titulop1">Lancer</string>
+    <string name="descripcionimagen">Descripcion de la imagen</string>
+    <string name="tituloprincipal">Menu de opciones</string>
+</resources>
