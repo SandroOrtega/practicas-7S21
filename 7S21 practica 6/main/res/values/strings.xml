@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica67S21</string>
+    <string name="tesoem">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="titulop1">Menú de opciones</string>
+    <string name="titulosuma">Suma de dos números</string>
+    <string name="num1">Ingrese el primer número</string>
+    <string name="num2">Ingrese el segundo número</string>
+    <string name="lblcalcular">Calcular</string>
+    <string name="hintnum1">número 1</string>
+    <string name="hintnum2">número 2</string>
+    <string name="lblregresa">Regresar menu</string>
+
+</resources>
