@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica37S11</string>
+    <string name="Titulo">Suma de dos numeros</string>
+    <string name="lnum1">Ingresa el primer número</string>
+    <string name="lnum2">Ingresa el segundo número</string>
+    <string name="place1">Coloca el número 1 aquí</string>
+    <string name="place2">Coloca el número 2 aquí</string>
+    <string name="lbtcalcula">Calcular</string>
+    <string name="lresultado">Resultado</string>
+</resources>
