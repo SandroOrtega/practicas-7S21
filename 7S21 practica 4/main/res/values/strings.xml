@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica47S21</string>
+    <string name="suma">Ir a suma</string>
+    <string name="resta">Ir a resta</string>
+    <string name="titulosuma">Operación suma</string>
+    <string name="tituloresta">Operación resta</string>
+    <string name="calcular">Calcular</string>
+    <string name="regresa">Regresa</string>
+</resources>
