@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T2P17S21SOG</string>
+    <string name="p1btn1">Llamar pantalla 2</string>
+    <string name="p2btn1">Regresar al principal</string>
+    <string name="p3btn1">Regresar resultado</string>
+    <string name="p1btn2">Llamar pantalla 3</string>
+</resources>
