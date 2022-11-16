@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto 7S21</string>
+    <string name="titul">Información</string>
+    <string name="idd">Datos</string>
+    <string name="matri">Matricula del alumno</string>
+    <string name="nomb">Nombre del alumno</string>
+    <string name="edad">Edad del alumno</string>
+    <string name="semestre">Semestre del alumno</string>
+    <string name="prome">Promedio del alumno</string>
+    <string name="estado">Estado del alumno</string>
+    <string name="apro">Aprobado</string>
+    <string name="repro">No acreditado</string>
+    <string name="btn_agreg">Agregar</string>
+    <string name="btn_modifi">Modificar</string>
+    <string name="btn_elimi">Eliminar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_acep">Aceptar</string>
+    <string name="estado_actual">Estado actual</string>
+</resources>
